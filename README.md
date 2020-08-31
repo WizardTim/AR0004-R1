@@ -11,4 +11,5 @@ PCB design files for 10W D50/D65 (5000K/6500K ANSI approximate) standard illumin
 
 ### Related Videos
 * _**'SMT Design Mistakes'**_: discusses heat conduction problems related to interrupted copper areas on typical a 1 oz FR-4 PCB.
+
 [![SMT Design Mistakes](https://img.youtube.com/vi/_iIPJBWDUq0/0.jpg)](https://youtu.be/_iIPJBWDUq0 "SMT Design Mistakes")
